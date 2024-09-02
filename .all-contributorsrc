@@ -4,11 +4,9 @@
   ],
   "imageSize": 100,
   "commit": false,
-  "commitType": "docs",
-  "commitConvention": "angular",
   "contributorsSortAlphabetically": true,
-  "contributorTemplate": "contributor.name - contributor.contributions",
-  "wrapperTemplate": "bodyContent",
+  "contributorTemplate": "${contributor.name} - ${contributor.contributions}",
+  "wrapperTemplate": "<div>${contributors}</div>",
   "contributors": [
     {
       "login": "tkoyama010",
