@@ -7,8 +7,8 @@
   "commitType": "docs",
   "commitConvention": "angular",
   "contributorsSortAlphabetically": true,
-  "contributorTemplate": "%= contributor.name %",
-  "wrapperTemplate": "%= bodyContent % - %= tableFooterContent %",
+  "contributorTemplate": "{{name}} - {{contributions}}",
+  "wrapperTemplate": "{{contributors}}",
   "contributors": [
     {
       "login": "tkoyama010",
@@ -18,7 +18,8 @@
       "contributions": [
         "ideas",
         "review",
-        "code"
+        "code",
+        "maintenance"
       ]
     },
     {
