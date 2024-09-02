@@ -6,6 +6,9 @@
   "commit": false,
   "commitType": "docs",
   "commitConvention": "angular",
+  "contributorsSortAlphabetically": true,
+  "contributorTemplate": "contributor.name",
+  "wrapperTemplate": "bodyContent - tableFooterContent\n",
   "contributors": [
     {
       "login": "tkoyama010",
@@ -17,7 +20,174 @@
       ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 1,
+  "types": {
+    "audio": {
+      "symbol": "audio",
+      "description": "",
+      "link": ""
+    },
+    "a11y": {
+      "symbol": "a11y",
+      "description": "",
+      "link": ""
+    },
+    "bug": {
+      "symbol": "bug",
+      "description": "",
+      "link": ""
+    },
+    "blog": {
+      "symbol": "blog",
+      "description": "",
+      "link": ""
+    },
+    "business": {
+      "symbol": "business",
+      "description": "",
+      "link": ""
+    },
+    "code": {
+      "symbol": "code",
+      "description": "",
+      "link": ""
+    },
+    "content": {
+      "symbol": "content",
+      "description": "",
+      "link": ""
+    },
+    "data": {
+      "symbol": "data",
+      "description": "",
+      "link": ""
+    },
+    "doc": {
+      "symbol": "doc",
+      "description": "",
+      "link": ""
+    },
+    "design": {
+      "symbol": "design",
+      "description": "",
+      "link": ""
+    },
+    "example": {
+      "symbol": "example",
+      "description": "",
+      "link": ""
+    },
+    "eventOrganizing": {
+      "symbol": "eventOrganizing",
+      "description": "",
+      "link": ""
+    },
+    "financial": {
+      "symbol": "financial",
+      "description": "",
+      "link": ""
+    },
+    "fundingFinding": {
+      "symbol": "fundingFinding",
+      "description": "",
+      "link": ""
+    },
+    "ideas": {
+      "symbol": "ideas",
+      "description": "",
+      "link": ""
+    },
+    "infra": {
+      "symbol": "infra",
+      "description": "",
+      "link": ""
+    },
+    "maintenance": {
+      "symbol": "maintenance",
+      "description": "",
+      "link": ""
+    },
+    "mentoring": {
+      "symbol": "mentoring",
+      "description": "",
+      "link": ""
+    },
+    "platform": {
+      "symbol": "platform",
+      "description": "",
+      "link": ""
+    },
+    "plugin": {
+      "symbol": "plugin",
+      "description": "",
+      "link": ""
+    },
+    "projectManagement": {
+      "symbol": "projectManagement",
+      "description": "",
+      "link": ""
+    },
+    "promotion": {
+      "symbol": "promotion",
+      "description": "",
+      "link": ""
+    },
+    "question": {
+      "symbol": "question",
+      "description": "",
+      "link": ""
+    },
+    "research": {
+      "symbol": "research",
+      "description": "",
+      "link": ""
+    },
+    "review": {
+      "symbol": "review",
+      "description": "",
+      "link": ""
+    },
+    "security": {
+      "symbol": "security",
+      "description": "",
+      "link": ""
+    },
+    "tool": {
+      "symbol": "tool",
+      "description": "",
+      "link": ""
+    },
+    "translation": {
+      "symbol": "translation",
+      "description": "",
+      "link": ""
+    },
+    "test": {
+      "symbol": "test",
+      "description": "",
+      "link": ""
+    },
+    "tutorial": {
+      "symbol": "tutorial",
+      "description": "",
+      "link": ""
+    },
+    "talk": {
+      "symbol": "talk",
+      "description": "",
+      "link": ""
+    },
+    "userTesting": {
+      "symbol": "userTesting",
+      "description": "",
+      "link": ""
+    },
+    "video": {
+      "symbol": "video",
+      "description": "",
+      "link": ""
+    }
+  },
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
