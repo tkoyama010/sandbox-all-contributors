@@ -8,7 +8,7 @@
   "commitConvention": "angular",
   "contributorsSortAlphabetically": true,
   "contributorTemplate": "<%= contributor.name %>",
-  "wrapperTemplate": "\n bodyContent - tableFooterContent\n",
+  "wrapperTemplate": "<%= bodyContent %> - <%= tableFooterContent %>\n",
   "contributors": [
     {
       "login": "tkoyama010",
