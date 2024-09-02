@@ -11,10 +11,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="100%">contributor.name</td>
+      <td align="center" valign="top" width="100%">All Contributors</td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="100%">contributor.name</td>
+      <td align="center" valign="top" width="100%">Tetsuo Koyama</td>
     </tr>
   </tbody>
 </table>
