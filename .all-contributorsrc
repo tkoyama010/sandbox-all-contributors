@@ -29,7 +29,8 @@
       "contributions": [
         "doc",
         "code",
-        "maintenance"
+        "maintenance",
+        "test"
       ]
     },
     {
