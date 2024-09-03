@@ -6,7 +6,7 @@
   "commit": false,
   "contributorsSortAlphabetically": true,
   "contributorTemplate": "${contributor.name} - ${contributor.contributions}",
-  "wrapperTemplate": "",
+  "wrapperTemplate": "{{{contributors}}}",
   "contributors": [
     {
       "login": "tkoyama010",
