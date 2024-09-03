@@ -11,7 +11,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      
+      <td align="center" valign="top" width="100%">All Contributors - doc,code,maintenance,test</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="100%">Tetsuo Koyama - ideas,review,code,maintenance,test</td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="100%">pre-commit.ci - maintenance</td>
     </tr>
   </tbody>
 </table>
