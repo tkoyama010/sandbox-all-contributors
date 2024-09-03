@@ -31,7 +31,8 @@
         "doc",
         "code",
         "maintenance",
-        "test"
+        "test",
+        "design"
       ]
     },
     {
