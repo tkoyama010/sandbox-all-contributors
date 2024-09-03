@@ -18,7 +18,8 @@
         "review",
         "code",
         "maintenance",
-        "test"
+        "test",
+        "design"
       ]
     },
     {
