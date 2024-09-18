@@ -1,5 +1,5 @@
-# all-contributors-sandbox
-![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/all-contributors-sandbox?color=ee8449)
+# sandbox-all-contributors
+![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/sandbox-all-contributors?color=ee8449)
 
 ## Contributors
 
